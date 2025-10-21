@@ -1,0 +1,13 @@
+{
+  "itemGroup.after_talk": "Example Mod Tab",
+  "block.after_talk.example_block": "Example Block",
+  "item.after_talk.example_item": "Example Item",
+
+  "after_talk.configuration.title": "AfterTalk Configs",
+  "after_talk.configuration.section.after_talk.common.toml": "AfterTalk Configs",
+  "after_talk.configuration.section.after_talk.common.toml.title": "AfterTalk Configs",
+  "after_talk.configuration.items": "Item List",
+  "after_talk.configuration.logDirtBlock": "Log Dirt Block",
+  "after_talk.configuration.magicNumberIntroduction": "Magic Number Text",
+  "after_talk.configuration.magicNumber": "Magic Number"
+}
